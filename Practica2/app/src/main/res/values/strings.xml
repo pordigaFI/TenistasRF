@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Practica2</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="nameTenista">Nombre</string>
+    <string name="surnameTenista">Apellido</string>
+    <string name="edadTenista">Edad</string>
+    <string name="url">Url</string>
+    <string name="paisTenista">Pais</string>
+    <string name="estaturaTenista">Estatura</string>
+    <string name="rankingTenista">Ranking</string>
+    <string name="puntosTenista">Puntos</string>
+    <string name="titulosTenista">Titulos</string>
+    <string name="ingresosTenista">Ingresos totales</string>
+    <string name="tituloDetalle">Tenista</string>
+</resources>
